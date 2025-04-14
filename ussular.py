@@ -19,7 +19,7 @@ text='SardoR ShoSHuhratov SHerzoDivich'
 #print(Z.conjugate())
 #print(round(A))
 #rint(abs(A))
-#rint(round(X,1))
+#rint(round(X,1))#
 #print(complex)
 
 #""string
